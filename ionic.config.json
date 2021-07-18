@@ -1,0 +1,12 @@
+{
+  "defaultProject": "angular-tour-of-heroes",
+  "projects": {
+    "angular-tour-of-heroes": {
+      "name": "angular-tour-of-heroes",
+      "integrations": {
+        "capacitor": {}
+      },
+      "type": "angular"
+    }
+  }
+}
